@@ -1,0 +1,10 @@
+C:\Users\I52925\source\repos\OrderAPI\Order.Entities\bin\Debug\netcoreapp3.1\Order.Entities.deps.json
+C:\Users\I52925\source\repos\OrderAPI\Order.Entities\bin\Debug\netcoreapp3.1\Order.Entities.dll
+C:\Users\I52925\source\repos\OrderAPI\Order.Entities\bin\Debug\netcoreapp3.1\Order.Entities.pdb
+C:\Users\I52925\source\repos\OrderAPI\Order.Entities\obj\Debug\netcoreapp3.1\Order.Entities.csproj.AssemblyReference.cache
+C:\Users\I52925\source\repos\OrderAPI\Order.Entities\obj\Debug\netcoreapp3.1\Order.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I52925\source\repos\OrderAPI\Order.Entities\obj\Debug\netcoreapp3.1\Order.Entities.AssemblyInfoInputs.cache
+C:\Users\I52925\source\repos\OrderAPI\Order.Entities\obj\Debug\netcoreapp3.1\Order.Entities.AssemblyInfo.cs
+C:\Users\I52925\source\repos\OrderAPI\Order.Entities\obj\Debug\netcoreapp3.1\Order.Entities.csproj.CoreCompileInputs.cache
+C:\Users\I52925\source\repos\OrderAPI\Order.Entities\obj\Debug\netcoreapp3.1\Order.Entities.dll
+C:\Users\I52925\source\repos\OrderAPI\Order.Entities\obj\Debug\netcoreapp3.1\Order.Entities.pdb
